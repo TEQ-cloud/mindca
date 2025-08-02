@@ -1,4 +1,4 @@
-![MINDCA Logo](assets/mindca-logo.png)
+![MINDCA Logo](assets/mindca-header-logo.png)
 
 # MINDCA – LEGO® Mindstorms DevOps Control & Automation
 
